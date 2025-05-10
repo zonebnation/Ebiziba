@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831711717763",
+    "project_id": "ebizimba",
+    "storage_bucket": "ebizimba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831711717763:android:e068292233e8938398aeb6",
+        "android_client_info": {
+          "package_name": "com.ebizimba.islam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyjiXXfLA9VV5luvMgp-nClv4_4PmFLKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

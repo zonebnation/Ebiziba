@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ebizimba Omusiraamu</string>
+    <string name="title_activity_main">Ebizimba Omusiraamu</string>
+    <string name="package_name">com.ebizimba.islam</string>
+    <string name="custom_url_scheme">com.ebizimba.islam</string>
+    <string name="server_client_id">831711717763-1hssdodv0bb9ghfeoobf5alvr029enfi.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ebizimba.islam.app-mergeReleaseResources-32:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYABAGU\\.gradle\\caches\\8.10\\transforms\\ab7df1eaf259cef577decf435f5e42f9\\transformed\\jetified-core-splashscreen-1.0.1\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}

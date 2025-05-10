@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">831711717763</string>
+    <string name="google_api_key" translatable="false">AIzaSyDyjiXXfLA9VV5luvMgp-nClv4_4PmFLKk</string>
+    <string name="google_app_id" translatable="false">1:831711717763:android:e068292233e8938398aeb6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDyjiXXfLA9VV5luvMgp-nClv4_4PmFLKk</string>
+    <string name="google_storage_bucket" translatable="false">ebizimba.firebasestorage.app</string>
+    <string name="project_id" translatable="false">ebizimba</string>
+</resources>

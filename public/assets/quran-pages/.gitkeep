@@ -1,0 +1,4 @@
+# This directory will contain Quran page images
+# The images should be named with a 3-digit format, e.g., 001.png, 002.png, etc.
+# These will be used as a fallback when IPFS is not available
+# During build, these files will be excluded from the final bundle

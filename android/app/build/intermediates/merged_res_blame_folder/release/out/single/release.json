@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-land-mdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-land-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_progress_drawable.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-land-hdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-land-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\raw_notification.wav.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\raw\\notification.wav"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-land-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-land-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_ic_video.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\ic_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\xml_config.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-land-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-land-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_rounded_icon_bg.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\rounded_icon_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_ic_book.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\ic_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_rounded_white_bg.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\rounded_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_splash_logo.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\splash_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-port-hdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-port-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-land-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-land-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-port-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-port-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-port-mdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-port-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable_ic_quran.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable\\ic_quran.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-port-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-port-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\drawable-port-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\drawable-port-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-merged_res-34:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\KYABAGU\\.gradle\\daemon\\8.10\\com.ebizimba.islam.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    }
+]

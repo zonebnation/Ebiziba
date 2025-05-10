@@ -1,0 +1,45 @@
+import { CapacitorConfig } from '@capacitor/cli';
+
+const config: CapacitorConfig = {
+  appId: "com.ebizimba.islam",
+  appName: "Ebizimba Omusiraamu",
+  webDir: "dist",
+  server: {
+    androidScheme: "https"
+  },
+  android: {
+    buildOptions: {
+      keystorePath: "release.keystore",
+      keystoreAlias: "release",
+      keystorePassword: "ebizimba",
+      keyPassword: "ebizimba"
+    },
+    overrideUserAgent: "Ebizimba Omusiraamu Android App",
+    allowMixedContent: true,
+    captureInput: true,
+    webContentsDebuggingEnabled: true,
+    initialFocus: true,
+    useLegacyBridge: false
+  },
+  plugins: {
+    SplashScreen: {
+      launchShowDuration: 0
+    },
+    Filesystem: {
+      directory: "Documents"
+    },
+    App: {
+      backButtonBehavior: "none"
+    },
+    LocalNotifications: {
+      smallIcon: "ic_notification",
+      iconColor: "#F4A020",
+      sound: "notification.wav"
+    },
+    PushNotifications: {
+      presentationOptions: ["badge", "sound", "alert"]
+    }
+  }
+};
+
+export default config;
