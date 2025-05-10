@@ -1,12 +1,13 @@
 import React, { useState, useEffect, Suspense, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { Preferences } from '@capacitor/preferences';
 import { Lock, BookOpen, Loader, RefreshCw, ArrowLeft, LogIn } from 'lucide-react';
 import { supabase } from '../lib/supabase';
 import { useAuth } from '../context/AuthContext';
 import { purchaseBook, restorePurchases } from '../lib/purchases';
 import type { Database } from '../types/supabase';
 import { useBookTrial } from '../hooks/useBookTrial';
-import { formatDistanceToNow } from 'date-fns';
+import { formatDistanceToNow, isAfter, subDays } from 'date-fns';
 import { useNavigation } from '../context/NavigationContext';
 import IPFSService from '../lib/ipfs-service';
 import { lazyLoadBookComponents } from '../lib/code-splitting';
@@ -56,7 +57,36 @@ export const Library: React.FC<LibraryProps> = ({ notificationBookId }) => {
     };
 
     initIpfs();
-    fetchBooks();
+
+    const loadBooks = async () => {
+      try {
+        const { value: booksValue } = await Preferences.get({ key: 'books' });
+        const { value: lastRefreshValue } = await Preferences.get({ key: 'lastBooksRefresh' });
+
+        let lastRefreshDate: Date | null = null;
+        if (lastRefreshValue) {
+          lastRefreshDate = new Date(JSON.parse(lastRefreshValue));
+        }
+
+        const needsRefresh = !lastRefreshDate || isAfter(new Date(), subDays(lastRefreshDate, -2)); // Check if last refresh was more than 2 days ago
+
+        if (value) {
+          const parsedBooks = JSON.parse(value);
+ setBooks(parsedBooks);
+ if (needsRefresh) {
+ fetchBooks(); // Fetch in background if needed
+ } else {
+          setLoading(false);
+        } else {
+          fetchBooks();
+        }
+      } catch (error) {
+        console.error('Error loading books from preferences:', error);
+        fetchBooks(); // Fallback to fetching from backend on error
+      }
+    };
+
+    loadBooks();
   }, []);
 
   useEffect(() => {
@@ -128,6 +158,9 @@ export const Library: React.FC<LibraryProps> = ({ notificationBookId }) => {
 
       if (error) throw error;
       setBooks(data || []);
+
+      await Preferences.set({ key: 'books', value: JSON.stringify(data) });
+ await Preferences.set({ key: 'lastBooksRefresh', value: JSON.stringify(new Date()) });
 
       // Schedule a notification for a random book
       if (data && data.length > 0) {

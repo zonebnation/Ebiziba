@@ -19,7 +19,6 @@ const BookViewer: React.FC<BookViewerProps> = ({ book, onClose }) => {
   const [contentUrl, setContentUrl] = useState<string | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const iframeRef = useRef<HTMLIFrameElement>(null);
-  const [key, setKey] = useState(Date.now());
   const { goBack } = useNavigation();
 
   const reloadIframe = () => {
@@ -50,12 +49,6 @@ const BookViewer: React.FC<BookViewerProps> = ({ book, onClose }) => {
     window.addEventListener('keydown', handleKeyPress);
     document.addEventListener('fullscreenchange', handleFullscreenChange);
     document.addEventListener('visibilitychange', handleVisibilityChange);
-    
-    const interval = setInterval(() => {
-      if (document.visibilityState === 'visible') {
-        reloadIframe();
-      }
-    }, 30000);
     
     const loadBookContent = async () => {
       try {
@@ -110,7 +103,6 @@ const BookViewer: React.FC<BookViewerProps> = ({ book, onClose }) => {
       window.removeEventListener('keydown', handleKeyPress);
       document.removeEventListener('fullscreenchange', handleFullscreenChange);
       document.removeEventListener('visibilitychange', handleVisibilityChange);
-      clearInterval(interval);
 
       if ((window as any).Android) {
         (window as any).Android.disableRotation();
@@ -163,7 +155,6 @@ const BookViewer: React.FC<BookViewerProps> = ({ book, onClose }) => {
         ) : contentUrl ? (
           <iframe
             key={key}
-            ref={iframeRef}
             src={contentUrl}
             className="w-full h-full border-none bg-white"
             title={book.title}
